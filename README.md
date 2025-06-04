@@ -1,38 +1,53 @@
+# Hi, I’m Tom Baker
 
+I'm a data scientist-in-training with a background in web development and a strong interest in AI, machine learning, and prompt engineering. Currently studying for my MSc in Data Science & AI at Birkbeck, I enjoy building practical tools that solve real-world problems—especially in education and automation.
 
+---
 
-# Tom Baker's GitHub ReadMe
+## What I’m Working On
 
+- LLM-powered educator tools: Building a Streamlit app for prompt generation, task planning, and document summarisation.
+- Machine Learning projects: Supervised learning (classification, regression), SVMs, PCA, CNNs.
+- Prompt experimentation: Designing and evaluating prompt strategies (role-based, chain-of-thought, few-shot).
+- Web-based learning tools: Developing interactive revision and quiz systems using HTML, CSS, and JavaScript.
 
-## 👋 Hello, I'm Tom Baker!
+---
 
-### 🚀 About Me
-I'm a tech enthusiast with a unique blend of skills in web development and human nutrition. Armed with a Master's degree in Human Nutrition, I am on a mission to bridge the gap between technology and healthcare. Currently, I am contributing my skills to ZOE, a leading nutrition app, where I explore data-driven approaches to revolutionize healthcare.
+## Education & Technical Skills
 
-### 🎓 Education
-- Completed intensive Front-End Foundations and Frameworks Coding Bootcamps, mastering HTML, CSS, JavaScript, React, and more.
-- Holds a Master's degree in Human Nutrition, bringing a holistic understanding of health to the tech world.
+**MSc Data Science & AI** (ongoing) – Birkbeck University  
+**Front-End Web Development Bootcamp** – HTML, CSS, JavaScript, React
 
-### 💼 Professional Experience
-- Currently leveraging coding expertise at ZOE to enhance data-driven approaches in healthcare.
-- Passionate about integrating technology solutions for innovative and impactful healthcare strategies.
+**Core Skills**  
+- Languages: Python, SQL, R, JavaScript  
+- Tools: Pandas, scikit-learn, Streamlit, Tableau, Git, NLTK, spaCy  
+- Concepts: Supervised ML, NLP, data wrangling, visualisation, model evaluation
 
-### 🛠️ Key Skills
-- **Front-end Development:** HTML, CSS, JavaScript, React.
-- **Data Approaches:** Integration of tech solutions for innovative healthcare strategies.
-- **Tech and Nutrition Fusion:** Bridging the gap between two diverse yet complementary domains.
+---
 
-### 🌱 Passions
-- Enthusiastically explores the intersection of technology and nutrition for holistic well-being.
-- Keen interest in leveraging data to drive advancements in healthcare and nutrition.
+## Interests
 
-### 🔭 Looking Ahead
-- Open to collaborations and opportunities aligned with my passion for tech-driven health solutions.
-- Strives to contribute to projects that revolutionize the healthcare landscape through innovative data approaches.
+- Building user-friendly tools powered by LLMs and data pipelines  
+- Applying AI to education, productivity, and learning design  
+- Exploring explainability and bias detection in model outputs  
+- Contributing to open-source projects and collaborative experiments
 
-### 📫 Let's Connect!
-- 📧 [Email]: tbaker.bhb@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/thomas-baker-anutr-0b9758222/)
-- 🌐 [Portfolio](https://drwho1369.github.io/Bootstrap-Portfolio/)
+---
 
-Join me on this exciting journey of combining technology and nutrition for a healthier future! 🍏💡 #TechEnthusiast #HealthTech #DataInHealthcare #WebDevelopment #NutritionExpert #InnovationInHealthcare
+## Open To
+
+- Internships or freelance work in data science, AI product development, or NLP  
+- Collaborations on tools that improve learning, productivity, or decision-making  
+- Mentoring or peer-learning groups in ML, Python, or prompt engineering
+
+---
+
+## Let’s Connect
+
+Email: tbaker.bhb@gmail.com  
+LinkedIn: [linkedin.com/in/tomdibdinbaker](https://www.linkedin.com/in/tomdibdinbaker)  
+GitHub: [github.com/tomdibdin](https://github.com/tomdibdin)
+
+---
+
+Always learning. Always building.
