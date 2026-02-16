@@ -7,7 +7,7 @@ Currently, I work as a Data Engineer at **Rocket Lawyer**, controlling the devel
 
 ---
 
-## 🔧 Core Competencies
+## Core Competencies
 
 * **Financial Engineering:** Market regime detection (HMM/GMM), non-stationary time-series analysis, and custom loss function design (Directional Big Error) for P&L optimization.
 * **Data Infrastructure:** Designing Medallion architectures (Bronze/Silver/Gold) on Snowflake and building low-latency analytics suites using Streamlit.
@@ -16,7 +16,7 @@ Currently, I work as a Data Engineer at **Rocket Lawyer**, controlling the devel
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Market Regime Detection & Signal Stability (MSc Research)
 * **Focus:** Quantitative Finance / Machine Learning
