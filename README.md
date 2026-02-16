@@ -1,53 +1,65 @@
-# Hi, I’m Tom Baker
+# Thomas Baker
+**Quantitative Researcher (MSc) & Data Engineer | Financial ML & High-Integrity Pipelines**
 
-I'm a data scientist-in-training with a background in web development and a strong interest in AI, machine learning, and prompt engineering. Currently studying for my MSc in Data Science & AI at Birkbeck, I enjoy building practical tools that solve real-world problems—especially in education and automation.
+I am a Data Engineer and Quantitative Researcher specializing in building auditable, scalable data infrastructure and machine learning models for financial systems. My work bridges the gap between raw data ingestion and actionable financial insights, with a focus on market regime detection, automated financial workflows, and high-frequency analytics.
 
----
-
-## What I’m Working On
-
-- LLM-powered educator tools: Building a Streamlit app for prompt generation, task planning, and document summarisation.
-- Machine Learning projects: Supervised learning (classification, regression), SVMs, PCA, CNNs.
-- Prompt experimentation: Designing and evaluating prompt strategies (role-based, chain-of-thought, few-shot).
-- Web-based learning tools: Developing interactive revision and quiz systems using HTML, CSS, and JavaScript.
+Currently, I work as a Data Engineer at **Rocket Lawyer**, controlling the development of ML infrastructure and rigorous A/B testing frameworks, while completing my MSc in Data Science & AI (Distinction Track).
 
 ---
 
-## Education & Technical Skills
+## 🔧 Core Competencies
 
-**MSc Data Science & AI** (ongoing) – Birkbeck University  
-**Front-End Web Development Bootcamp** – HTML, CSS, JavaScript, React
-
-**Core Skills**  
-- Languages: Python, SQL, R, JavaScript  
-- Tools: Pandas, scikit-learn, Streamlit, Tableau, Git, NLTK, spaCy  
-- Concepts: Supervised ML, NLP, data wrangling, visualisation, model evaluation
+* **Financial Engineering:** Market regime detection (HMM/GMM), non-stationary time-series analysis, and custom loss function design (Directional Big Error) for P&L optimization.
+* **Data Infrastructure:** Designing Medallion architectures (Bronze/Silver/Gold) on Snowflake and building low-latency analytics suites using Streamlit.
+* **AI Automation:** Developing agentic workflows for Accounts Payable/Receivable automation, invoice auditing, and risk mitigation.
+* **Statistical Rigor:** Implementing hypothesis testing, power analysis, and cohort sizing to ensure data integrity in decision-making.
 
 ---
 
-## Interests
+## 🚀 Featured Projects
 
-- Building user-friendly tools powered by LLMs and data pipelines  
-- Applying AI to education, productivity, and learning design  
-- Exploring explainability and bias detection in model outputs  
-- Contributing to open-source projects and collaborative experiments
+### Market Regime Detection & Signal Stability (MSc Research)
+* **Focus:** Quantitative Finance / Machine Learning
+* Developed a "stacked" machine learning architecture using Hidden Markov Models (HMM) and Gaussian Mixture Models (GMM) to detect latent market regimes in equity data.
+* Engineered a custom **Directional Big Error (DBE)** loss function to prioritize profitability and directional accuracy over standard statistical error metrics.
+* Built a robust backtesting framework to validate signal stability against non-stationary market conditions.
 
----
+### AI Finance Agent (Invoice & Audit Automation)
+* **Focus:** FinTech / Agentic AI
+* Architected an autonomous agent capable of auditing invoices for deficiency (e.g., missing PO numbers) and validating against a mock ERP system (Microsoft Dynamics simulation).
+* Implemented "Human-in-the-loop" logic to draft professional correspondence for vendors regarding compliance issues, significantly reducing manual Accounts Payable workload.
 
-## Open To
-
-- Internships or freelance work in data science, AI product development, or NLP  
-- Collaborations on tools that improve learning, productivity, or decision-making  
-- Mentoring or peer-learning groups in ML, Python, or prompt engineering
-
----
-
-## Let’s Connect
-
-Email: tbaker.bhb@gmail.com  
-LinkedIn: [linkedin.com/in/tomdibdinbaker](https://www.linkedin.com/in/tomdibdinbaker)  
-GitHub: [github.com/tomdibdin](https://github.com/tomdibdin)
+### Inbox0: Enterprise Message Architecture
+* **Focus:** Scalable Systems / Nx Monorepo
+* Built a complex monorepo architecture (Next.js, Fastify, PostgreSQL) to automate high-volume email analysis and routing via the Gmail and Twilio APIs.
+* Focused on security and infrastructure-as-code (Terraform) to simulate enterprise-grade deployment environments.
 
 ---
 
-Always learning. Always building.
+## Professional Experience
+
+**Rocket Lawyer | Data Engineer & ML Infrastructure**
+* **Infrastructure:** Controlled the development of data pipelines for the company's Generative AI product suite, optimizing throughput for continuous model training.
+* **Analytics:** Architected a low-latency product analytics suite using Streamlit on Snowflake, replacing ad-hoc SQL with a standardized Medallion architecture.
+* **Statistical Control:** Formalized the A/B testing framework, implementing rigorous power analysis to guarantee cohort validity and eliminate statistical noise.
+
+---
+
+## Technical Stack
+
+* **Languages:** Python (Production), SQL, R, JavaScript/TypeScript.
+* **Quantitative:** Pandas, NumPy, Scikit-learn, PyTorch, HMM/GMM.
+* **Data Engineering:** Snowflake, dbt, Airflow, Terraform, Docker.
+* **Visualization:** Streamlit, Tableau, Matplotlib.
+
+---
+
+## Education
+
+* **MSc Data Science and AI** | Birkbeck, University of London (Distinction Track - 80%+ average)
+* **BSc Chemistry (2:1 Hons)** | University of Bristol
+
+---
+
+### Let's Connect
+[LinkedIn](https://www.linkedin.com/in/thomas-baker-0b9758222/) | [Email](mailto:tbaker.bhb@gmail.com)
